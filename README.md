@@ -1,4 +1,4 @@
-<h1 align="center">🌎 Hello World I'm Beelen 🐙</h1>
+<h1 align="center">🌎 Hello World, I'm Beelen 🐙</h1>
 <h3 align="center">👨🏻‍💻 currently studying Computer Engineering ( ꩜ ᯅ ꩜)⁭ ⁭Ufal</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbeelen&show_icons=true&locale=en" alt="lucasbeelen" /></p>
